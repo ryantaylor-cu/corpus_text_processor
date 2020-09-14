@@ -32,5 +32,5 @@ setuptools.setup(
         "six==1.12.0",
         "striprtf==0.0.8",
     ],
-    scripts=['ctp.py'],
+    scripts=['ctp'],
 )
